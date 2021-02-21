@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_footers",
+  "info": {
+    "name": "footer",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

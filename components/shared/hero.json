@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_heroes",
+  "info": {
+    "name": "Hero",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
